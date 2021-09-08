@@ -25,7 +25,7 @@ public class Calculator {
 
     public static double calculateAdd(int val1, double val2){
 
-        return val1 - val2;
+        return val1 + val2;
 
     }
 
